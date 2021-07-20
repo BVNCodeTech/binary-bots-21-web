@@ -1,0 +1,20 @@
+body {
+    background-color: #07091b;
+
+}
+
+#cardistic {
+    background-color: #07091b;
+}
+
+#subtitle {
+    color: gainsboro;
+}
+
+#nav-link {
+    color: gainsboro;
+}
+
+#nav-link::hover {
+    color: white;
+}
